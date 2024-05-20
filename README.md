@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img width="815" alt="Screenshot 2024-04-12 091525" src="https://github.com/Makster04/Makster04/assets/86382359/ecbde785-90ef-4cf9-8ca7-b9b08bd87d2e">
 
 <!--
 **Makster04/Makster04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
