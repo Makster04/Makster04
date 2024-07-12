@@ -6,17 +6,17 @@
 - Recently, I have just completed my six-month journey (January-July 2024) in a Software Web Development Bootcamp named CodeFellows where I learned about Javascript. Main goal of the Bootcamp was to see if I can apply myself to Software and gain knowledge in coding. As a result, I recieved 4 certificates. Therefore, I have learned a lot and am open to working mainly as a Front-End Software Engineer in any industry. Additionally, I really look forward to learning about Data Science and Python as well!
 
 
-- 🔭 Some Skills:
+- 🔭 **SOME SKILLS:**
 - I possess a strong blend of creativity, networking, and innovation, which I believe will contribute significantly to the tech industry. Excited about the possibilities that lie ahead, I am ready to bring my unique perspective and skills to make a meaningful impact in the ever-evolving tech landscape. Let's connect and explore the limitless potential of collaboration!
 
 
-- ⚡ Fun fact: 
+- ⚡ **SOME FUN FACTS:** 
 - Dedicated and versatile professional with a Bachelor's degree in Political Science and International Studies from the University of Washington (2022). My academic journey laid the foundation for my passion in diplomacy, public policy, and humanitarian work. I have a unique background in Special Education, where I contributed to the development and support of learners with disabilities.
 
-- 💬 **Ask me about**...
+- 💬 **ASK ME ABOUT**...
 - What Software Project Ideas I have in mind, my knowledge in data science and software, what you want to work on, etc.
 
 - 📫 **How to reach me**...
-- **Email:** maktrnka@comcast.net
-- **LinkedIn**: https://www.linkedin.com/in/mak-trnka/
--->
+- **Email:** [Email](maktrnka@comcast.net)
+- **LinkedIn**: [Mak Trnka](https://www.linkedin.com/in/mak-trnka/)
+
