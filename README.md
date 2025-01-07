@@ -2,8 +2,9 @@
 <img width="815" alt="Screenshot 2024-04-12 091525" src="https://github.com/Makster04/Makster04/assets/86382359/dc1c3cd6-8d38-4502-a070-e6facb78bbff">
 
 - ### 🌱 **ABOUT ME:**
-- I currently live in Seattle, WA and look forward to relocate! I am ready to embrace new challenges, recently pivoted towards the dynamic world of technology. In the middle of 2023, I started applying myself to Software. I am aiming to apply my diverse skills in this innovative field. My transition reflects my adaptability and commitment to continuous growth!
-- Recently, I have just completed my six-month journey (January-July 2024) in a Software Web Development Bootcamp named CodeFellows where I learned about Javascript. Main goal of the Bootcamp was to see if I can apply myself to Software and gain knowledge in coding. As a result, I recieved 4 certificates. Therefore, I have learned a lot and am open to working mainly as a Front-End Software Engineer in any industry. Additionally, I really look forward to learning about Data Science and Python as well!
+- I currently live in New York City, moved from Seattle, WA in Decemember! I am ready to embrace new challenges, recently pivoted towards the dynamic world of technology. In the middle of 2023, I started applying myself to Software. I am aiming to apply my diverse skills in this innovative field. My transition reflects my adaptability and commitment to continuous growth!
+- Recently, I have just completed my six-month journey (January-July 2024) in a Software Web Development Bootcamp named *CodeFellows* where I learned about Javascript. Main goal of the Bootcamp was to see if I can apply myself to Software and gain knowledge in coding. As a result, I recieved 4 certificates. Therefore, I have learned a lot and am open to working mainly as a Front-End Software Engineer in any industry.
+- Currently, I joined a Data Science Bootcamp called *FLATIRON* and learning about Python, SQL, and such!
 
 
 - ### 🔭 **SOME SKILLS:**
