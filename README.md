@@ -1,5 +1,4 @@
 ## Hello There 👋 (Portfolio: https://makster04.netlify.app/)
-<img width="815" alt="Screenshot 2024-04-12 091525" src="https://github.com/Makster04/Makster04/assets/86382359/dc1c3cd6-8d38-4502-a070-e6facb78bbff">
 
 - ### 🌱 **ABOUT ME:**
 - I currently live in New York City, moved from Seattle, WA in Decemember! I am ready to embrace new challenges, recently pivoted towards the dynamic world of technology. In the middle of 2023, I started applying myself to Software. I am aiming to apply my diverse skills in this innovative field. My transition reflects my adaptability and commitment to continuous growth!
