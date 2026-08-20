@@ -1,22 +1,29 @@
-## Hello There 👋 (Portfolio: https://makster04.netlify.app/)
+## Hello There 👋 (Portfolio: [https://makster04.netlify.app/](https://makster04.netlify.app/))
 
-- ### 🌱 **ABOUT ME:**
-- I currently live in New York City, moved from Seattle, WA in Decemember! I am ready to embrace new challenges, recently pivoted towards the dynamic world of technology. In the middle of 2023, I started applying myself to Software. I am aiming to apply my diverse skills in this innovative field. My transition reflects my adaptability and commitment to continuous growth!
-- Recently, I have just completed my six-month journey (January-July 2024) in a Software Web Development Bootcamp named *CodeFellows* where I learned about Javascript. Main goal of the Bootcamp was to see if I can apply myself to Software and gain knowledge in coding. As a result, I recieved 4 certificates. Therefore, I have learned a lot and am open to working mainly as a Front-End Software Engineer in any industry.
-- Currently, I joined a Data Science Bootcamp called *FLATIRON* and learning about Python, SQL, and such!
+* ### 🌱 **ABOUT ME:**
 
+* I am currently a **Graduate Student at George Washington University (GWU)** pursuing a **Master of Science in Data Science**, which I began in **2026**. I am continuing to expand my knowledge in areas such as Python, SQL, machine learning, statistics, and data analytics.
 
-- ### 🔭 **SOME SKILLS:**
-- I possess a strong blend of creativity, networking, and innovation, which I believe will contribute significantly to the tech industry. Excited about the possibilities that lie ahead, I am ready to bring my unique perspective and skills to make a meaningful impact in the ever-evolving tech landscape. Let's connect and explore the limitless potential of collaboration!
+* I recently pivoted toward the dynamic world of technology after initially coming from a background in Political Science and International Studies. In 2023, I began applying myself to software development and have continued building my technical skills ever since. My transition into technology reflects my adaptability, curiosity, and commitment to continuous growth!
 
+* I completed a six-month **Software Web Development Bootcamp at Code Fellows (January–July 2024)**, where I learned JavaScript and gained hands-on experience in software development. The program helped me explore my ability to work in software and resulted in earning four certificates.
 
-- ### ⚡ **SOME FUN FACTS:** 
-- Dedicated and versatile professional with a Bachelor's degree in Political Science and International Studies from the University of Washington (2022). My academic journey laid the foundation for my passion in diplomacy, public policy, and humanitarian work. I have a unique background in Special Education, where I contributed to the development and support of learners with disabilities.
+* I also expanded into **Data Science through Flatiron School**, where I developed experience working with Python, SQL, data analysis, machine learning, and other data science tools.
 
-- ### 💬 **ASK ME ABOUT**...
-- What Software Project Ideas I have in mind, my knowledge in data science and software, what you want to work on, etc.
+* ### 🔭 **SOME SKILLS:**
 
-- ### 📫 **REACH ME**...
-- **Email:** [Email](maktrnka@comcast.net)
-- **LinkedIn**: [Mak Trnka](https://www.linkedin.com/in/mak-trnka/)
+* I possess a strong blend of creativity, networking, analytical thinking, and innovation. I am excited about applying both my technical and interdisciplinary background to meaningful problems and continuing to grow within the technology and data science fields. Let's connect and explore the possibilities for collaboration!
 
+* ### ⚡ **SOME FUN FACTS:**
+
+* Dedicated and versatile professional with a **Bachelor's degree in Political Science and International Studies from the University of Washington (2022)**. My academic background helped develop my interests in diplomacy, public policy, humanitarian work, economics, and social issues. I also have a unique professional background in Special Education, where I contributed to the development and support of learners with disabilities.
+
+* ### 💬 **ASK ME ABOUT**...
+
+* Data Science, Python, SQL, machine learning, software development, project ideas, and interesting ways technology and data can be applied to real-world problems.
+
+* ### 📫 **REACH ME**...
+
+* **Email:** [Email](mailto:maktrnka@comcast.net)
+
+* **LinkedIn:** [Mak Trnka](https://www.linkedin.com/in/mak-trnka/)
