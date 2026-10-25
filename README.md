@@ -1,6 +1,6 @@
 ## Hello There 👋 (Portfolio: [https://makster04.netlify.app/](https://makster04.netlify.app/))
 
-* ### 🌱 **ABOUT ME:**
+### 🌱 **ABOUT ME:**
 
 * I am currently a **Graduate Student at George Washington University (GWU)** pursuing a **Master of Science in Data Science**, which I began in **2026**. I am continuing to expand my knowledge in areas such as Python, SQL, machine learning, statistics, and data analytics.
 
@@ -10,19 +10,19 @@
 
 * I also expanded into **Data Science through Flatiron School**, where I developed experience working with Python, SQL, data analysis, machine learning, and other data science tools.
 
-* ### 🔭 **SOME SKILLS:**
+### 🔭 **SOME SKILLS:**
 
 * I possess a strong blend of creativity, networking, analytical thinking, and innovation. I am excited about applying both my technical and interdisciplinary background to meaningful problems and continuing to grow within the technology and data science fields. Let's connect and explore the possibilities for collaboration!
 
-* ### ⚡ **SOME FUN FACTS:**
+### ⚡ **SOME FUN FACTS:**
 
 * Dedicated and versatile professional with a **Bachelor's degree in Political Science and International Studies from the University of Washington (2022)**. My academic background helped develop my interests in diplomacy, public policy, humanitarian work, economics, and social issues. I also have a unique professional background in Special Education, where I contributed to the development and support of learners with disabilities.
 
-* ### 💬 **ASK ME ABOUT**...
+### 💬 **ASK ME ABOUT**...
 
 * Data Science, Python, SQL, machine learning, software development, project ideas, and interesting ways technology and data can be applied to real-world problems.
 
-* ### 📫 **REACH ME**...
+### 📫 **REACH ME**...
 
 * **Email:** [Email](mailto:maktrnka@comcast.net)
 
